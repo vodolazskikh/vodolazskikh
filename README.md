@@ -2,7 +2,7 @@
 
 My name is Alexander and there are some facts about me:
 
-- 👯 Frontend engineer in [SKB Kontur](https://kontur.ru/). Working on Marking. Farma project.
+- 👯 Frontend engineer in [SKB Kontur](https://kontur.ru/). Working on Marking Farma project.
 - 📱 iOS developer in spare-time 👨‍💻
 - 📫 You can reach me via [telegram <img src="https://simpleicons.org/icons/telegram.svg" width="14px">](https://t.me/vodolazskikh)
 - ⚡ Fun fact: I have corgi called [Bunin 🐕](https://en.wikipedia.org/wiki/Ivan_Bunin)
