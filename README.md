@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello from Siberia ❄
 
-<!--
-**vodolazskikh/vodolazskikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Alexander and there are some facts about me:
 
-Here are some ideas to get you started:
+- 👯 Frontend engineer in [SKB Kontur](https://kontur.ru/). Working on Marking. Farma project.
+- 📱 iOS developer in spare-time 👨‍💻
+- 📫 You can reach me via [telegram <img src="https://simpleicons.org/icons/telegram.svg" width="14px">](https://t.me/vodolazskikh)
+- ⚡ Fun fact: I have corgi called [Bunin 🐕](https://en.wikipedia.org/wiki/Ivan_Bunin)
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Swift-informational?style=flat-square&logo=swift&logoColor=white&color=2bbc8a)
+
