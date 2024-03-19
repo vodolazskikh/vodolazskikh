@@ -2,7 +2,7 @@
 
 My name is Alexander and there are some facts about me:
 
-- 👯 Frontend engineer in [Sbermarket.tech](https://sbermarket.ru/).
+- 👯 Frontend engineer in [Tinkoff](https://tinkoff.ru/).
 - 📫 You can reach me via [telegram <img src="https://simpleicons.org/icons/telegram.svg" width="14px">](https://t.me/vodolazskikh)
 - ⚡ I have corgi called [Bunin 🐕](https://en.wikipedia.org/wiki/Ivan_Bunin)
 <br/>
